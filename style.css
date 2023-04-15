@@ -1,0 +1,91 @@
+table 
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th
+{
+    border:1px solid black;
+    padding: 6px;
+}
+
+span{
+    color: blue;
+}
+h4{
+    color:  blue;
+}
+img{
+    float:left;
+    width: 400px;
+    height: 100px;
+}
+
+
+ul li 
+{
+    color:red;
+}
+
+h3{
+    color: blue;
+}
+.image{
+    
+    width: 30%;
+    height: 100px;
+    float: bottom
+
+}
+.d1{
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+img{
+    width: 80%;
+    height: 300px;
+}
+.d2,.d3{
+    width: 30%;
+    height: 300px;
+    background-color:rgb(255, 0, 119)
+    (73, 211, 230);
+    display: inline-block;
+    margin: auto;
+    margin-left: 30px;
+    margin-top: 20px;
+   
+}
+.d4{
+    background-color: rgb(0, 214, 89);
+    width: 50%;
+    height: 300px;
+}
+
+.artical{
+    background-color: orange;
+    width: 79%;
+    height: 300px;
+    float: left;
+    margin-left: 5px;
+}
+.aside{
+    background-color: lightgreen;
+    width: 20%;
+    height: 300px;
+    margin-bottom: 10px;
+    float: left;
+}
+.tunguu{
+    background-color: rgb(0, 214, 89);
+    width: 50%;
+    height: 300px;
+}
+.ali{
+    width: 50%;
+    height: 500px;
+}
